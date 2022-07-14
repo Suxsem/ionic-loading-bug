@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "repro",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}
